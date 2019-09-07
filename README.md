@@ -4,6 +4,7 @@ A neural network on a torus which simulates a cerebral cortex with a cellular au
 Details are explained here[here](https://speakerdeck.com/yukinaga/iosapurini-yi-shi-hasu-rufalseka-deipuraningufalsexian-niaruren-gong-zhi-neng-ai)(in Japanese).
 
 ## Images gerarated by this code.
+### Temporal change of neurons
 Projection neuron: 0% Intereneuron: 100%  
 Excitatory neuron: 80% Inhibitory neruron: 20%  
 Learning ratio: 0.0  
@@ -49,11 +50,14 @@ Excitatory neuron: 80% Inhibitory neruron: 20%
 Learning ratio: 1.0  
 ![projection1](https://github.com/yukinaga/neural_network_on_torus/blob/master/images/ramda1.gif)  
 
+### Two-dementional outputs of two connected torus networks
+#### Not connected
 Projection neuron: 25% Intereneuron: 75%  
 Excitatory neuron: 80% Inhibitory neruron: 20%  
 Learning ratio: 0.001  
 ![projection1](https://github.com/yukinaga/neural_network_on_torus/blob/master/images/not_connected.gif)  
 
+#### Connected
 Projection neuron: 25% Intereneuron: 75%  
 Excitatory neuron: 80% Inhibitory neruron: 20%  
 Learning ratio: 0.001  
