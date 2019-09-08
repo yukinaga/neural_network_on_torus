@@ -1,7 +1,7 @@
 # neural_network_on_torus
 A neural network on a torus which simulates a cerebral cortex with a cellular automaton.
 
-Details are explained here[here](https://speakerdeck.com/yukinaga/iosapurini-yi-shi-hasu-rufalseka-deipuraningufalsexian-niaruren-gong-zhi-neng-ai)(in Japanese).
+Details are explained [here](https://speakerdeck.com/yukinaga/iosapurini-yi-shi-hasu-rufalseka-deipuraningufalsexian-niaruren-gong-zhi-neng-ai)(in Japanese).
 
 ## Images gerarated by this code.
 ### Temporal change of neurons
