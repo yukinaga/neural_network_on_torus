@@ -10,10 +10,35 @@ Excitatory neuron: 100% Inhibitory neruron: 0%
 Hebbian learning ratio: 0.0  
 ![proj_0_inhib_0](https://github.com/yukinaga/neural_network_on_torus/blob/master/images/proj_0_inhib_0.gif)  
 
+Projection neuron: 25% Interneuron: 75%  
+Excitatory neuron: 100% Inhibitory neruron: 0%  
+Hebbian learning ratio: 0.0  
+![proj_25_inhib_0](https://github.com/yukinaga/neural_network_on_torus/blob/master/images/proj_25_inhib_0.gif)  
+
+Projection neuron: 50% Interneuron: 50%  
+Excitatory neuron: 100% Inhibitory neruron: 0%  
+Hebbian learning ratio: 0.0  
+![proj_50_inhib_0](https://github.com/yukinaga/neural_network_on_torus/blob/master/images/proj_50_inhib_0.gif)  
+
+Projection neuron: 75% Interneuron: 25%  
+Excitatory neuron: 100% Inhibitory neruron: 0%  
+Hebbian learning ratio: 0.0  
+![proj_75_inhib_0](https://github.com/yukinaga/neural_network_on_torus/blob/master/images/proj_75_inhib_0.gif)  
+
 Projection neuron: 0% Interneuron: 100%  
 Excitatory neuron: 80% Inhibitory neruron: 20%  
 Hebbian learning ratio: 0.0  
-![proj_0](https://github.com/yukinaga/neural_network_on_torus/blob/master/images/proj_000.gif)  
+![proj_0_inhib_20](https://github.com/yukinaga/neural_network_on_torus/blob/master/images/proj_0_inhib_20.gif)  
+
+Projection neuron: 0% Interneuron: 100%  
+Excitatory neuron: 60% Inhibitory neruron: 40%  
+Hebbian learning ratio: 0.0  
+![proj_0_inhib_40](https://github.com/yukinaga/neural_network_on_torus/blob/master/images/proj_0_inhib_40.gif)  
+
+Projection neuron: 0% Interneuron: 100%  
+Excitatory neuron: 40% Inhibitory neruron: 60%  
+Hebbian learning ratio: 0.0  
+![proj_0_inhib_60](https://github.com/yukinaga/neural_network_on_torus/blob/master/images/proj_0_inhib_60.gif)  
 
 Projection neuron: 25% Interneuron: 75%  
 Excitatory neuron: 80% Inhibitory neruron: 20%  
